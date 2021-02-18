@@ -1,0 +1,56 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700|Poppins:700');
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100;400;700&family=Roboto:ital,wght@0,100;0,900;1,400&display=swap");
+/* Fontawesome */
+@import url('https://use.fontawesome.com/releases/v5.6.3/css/all.css');
+
+@import url("components/cards.css");
+@import url("components/banner.css");
+@import url("components/footer.css");
+
+/* Utilities */
+body {
+  margin: 0;
+  font-family: Open Sans;
+}
+
+h1, h2, h3, h4 {
+  font-family: Poppins;
+}
+
+a {
+  text-decoration: none;
+}
+
+/* Custom design below! */
+
+body{
+  background: rgb(245,245,245);
+  color: 34626c;
+  font-size: 10px;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+
+}
+h1{
+  font-family: 'Montserrat', sans-serif;
+  color: 839b97;
+  font-weight: lighter;
+  font-size: 15px;
+
+}
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  color: 839b97;
+  font-weight: lighter;
+  font-size: 15px;
+
+}
+a {
+  color: yellow;
+}
+
+a:hover {
+  text-decoration: none;
+  color: purple;
+}

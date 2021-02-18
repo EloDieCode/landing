@@ -1,0 +1,28 @@
+.banner {
+  text-align: center;
+  background-image: url(../../images/background-travel.jpg);
+  background-size: cover;
+  padding: 15px 0;
+  color: white;
+  text-shadow: 1px 1px 5px black;
+}
+
+.banner h1 {
+  color: white;
+  font-size: 50px;
+}
+
+.banner p {
+  color: white;
+  opacity: 0.8;
+  font-size: 30px;
+  font-weight: lighter;
+}
+
+.btn-green {
+  display: inline-block;
+  background-color: #1EDD88;
+  padding: 16px 36px;
+  border-radius: 50px;
+  color: white;
+}
